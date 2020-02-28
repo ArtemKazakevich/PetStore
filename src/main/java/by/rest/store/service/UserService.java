@@ -10,12 +10,25 @@ import java.util.Random;
 
 @Component
 public class UserService {
-     
-     @Autowired
      public Map<String, User> usersList;
-     
-     @Autowired
      public Map<Long, String> tokens;
+     
+     public UserService(Map<String, User> usersList, Map<Long, String> tokens) {
+          this.usersList = usersList;
+          this.tokens = tokens;
+     }
+     
+     public Map<String, User> getUsersMap() {
+          return usersList;
+     }
+     
+     public Map<Long, String> getTokens() {
+          return tokens;
+     }
+     
+     public void addUser(User user) {
+          usersList.put(user.getUserName(), user);
+     }
      
      public String authentication(User newUser) {
           String login = newUser.getUserName();

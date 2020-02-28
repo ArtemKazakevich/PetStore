@@ -18,7 +18,7 @@ public class Order {
      
      @NotNull
      @PositiveOrZero
-     private int petId;
+     private long petId;
      private int quantity;
      private String shipDate;
      private Status status;

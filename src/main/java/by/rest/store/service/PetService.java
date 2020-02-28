@@ -1,7 +1,6 @@
 package by.rest.store.service;
 
 import by.rest.store.model.Pet;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
@@ -11,8 +10,24 @@ import java.util.Map;
 @Component
 public class PetService {
      
-     @Autowired
-     private Map<Long, Pet> petsList;
+     private final Map<Long, Pet> petsList;
+     
+     public PetService(Map<Long, Pet> petsList) {
+          this.petsList = petsList;
+     }
+     
+     public Map<Long, Pet> getPetsList() {
+          return petsList;
+     }
+     
+     public void petUpdateById(Long id, String name, Pet.Status status) {
+          petsList.get(id).setName(name);
+          petsList.get(id).setStatus(status);
+     }
+     
+     public void addPet(Pet pet) {
+          petsList.put(pet.getId(), pet);
+     }
      
      public boolean updatePet(Pet pet) {
           if (!petsList.containsKey(pet.getId())) return false;

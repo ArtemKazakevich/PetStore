@@ -2,7 +2,7 @@ GET http://localhost:8080/pet/0
 Content-Type: application/json
 
 {
-  "token": "-910160298"
+  "token": "-102825396"
 }
 
 ###
@@ -11,9 +11,9 @@ POST http://localhost:8080/pet/0
 Content-Type: application/json
 
 {
-  "token": "-910160298",
-  "petName": "test",
-  "petStatus": "sold"
+  "token": "-102825396",
+  "name": "test",
+  "status": "sold"
 }
 
 ###
@@ -22,7 +22,7 @@ DELETE http://localhost:8080/pet/0
 Content-Type: application/json
 
 {
-  "token": "-910160298"
+  "token": "-102825396"
 }
 
 ###
@@ -31,7 +31,7 @@ POST http://localhost:8080/pet/0/uploadImage
 Content-Type: application/json
 
 {
-  "token": "901209314",
+  "token": "-102825396",
   "petPhotoUrl": "http://test.com/test/test.img"
 }
 
@@ -41,7 +41,7 @@ POST http://localhost:8080/pet
 Content-Type: application/json
 
 {
-  "token": "901209314",
+  "token": "-102825396",
   "pet": {
     "id": 0,
     "category": {
@@ -68,7 +68,7 @@ PUT http://localhost:8080/pet
 Content-Type: application/json
 
 {
-  "token": "-910160298",
+  "token": "-102825396",
   "pet": {
     "id": 0,
     "category": {
@@ -95,8 +95,8 @@ GET http://localhost:8080/pet/findByStatus
 Content-Type: application/json
 
 {
-  "token": "382769744",
-  "petStatus": "available"
+  "token": "-102825396",
+  "status": "available"
 }
 
 ###

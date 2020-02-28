@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class PetRequest {
-     private long token;
+     private String token;
      private String name;
      private Pet.Status status;
      private String petPhotoUrl;
