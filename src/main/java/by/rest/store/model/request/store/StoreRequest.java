@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class StoreRequest {
-     private String token;
+     private Long token;
      private Order order;
      private Order.Status status;
 }

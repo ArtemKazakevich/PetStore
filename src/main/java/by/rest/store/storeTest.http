@@ -2,7 +2,7 @@ POST http://localhost:8080/store/order
 Content-Type: application/json
 
 {
-  "token": "-102825396",
+  "token": -4822759691425300566,
   "order": {
     "id": 0,
     "petId": 0,
@@ -19,7 +19,7 @@ GET http://localhost:8080/store/order/0
 Content-Type: application/json
 
 {
-  "token": "-102825396"
+  "token": -4822759691425300566
 }
 
 ###
@@ -28,7 +28,7 @@ DELETE http://localhost:8080/store/order/0
 Content-Type: application/json
 
 {
-  "token": "-102825396"
+  "token": -4822759691425300566
 }
 
 ###
@@ -37,7 +37,7 @@ GET http://localhost:8080/store/inventory
 Content-Type: application/json
 
 {
-  "token": "-102825396",
+  "token": -4822759691425300566,
   "petStatus": "available"
 }
 

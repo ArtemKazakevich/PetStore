@@ -2,7 +2,7 @@ GET http://localhost:8080/user/string
 Content-Type: application/json
 
 {
-  "token": "-102825396"
+  "token": -4822759691425300566
 }
 
 ###
@@ -11,7 +11,7 @@ PUT http://localhost:8080/user/string
 Content-Type: application/json
 
 {
-  "token": "-102825396",
+  "token": -4822759691425300566,
   "user": {
     "id": 0,
     "userName": "string",
@@ -30,7 +30,7 @@ DELETE http://localhost:8080/user/string
 Content-Type: application/json
 
 {
-  "token": "-102825396"
+  "token": -4822759691425300566
 }
 
 ###
@@ -57,7 +57,7 @@ POST http://localhost:8080/user/logout
 Content-Type: application/json
 
 {
-  "token": "-102825396"
+  "token": -4822759691425300566
 }
 
 ###

@@ -8,30 +8,29 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.validation.beanvalidation.MethodValidationPostProcessor;
 
 import java.util.HashMap;
-import java.util.LinkedHashMap;
 import java.util.Map;
 
 @Configuration
 public class Config {
-     
-//     @Bean
-//     public MethodValidationPostProcessor methodValidationPostProcessor() {
-//          return new MethodValidationPostProcessor();
-//     }
-     
+
+     @Bean
+     public MethodValidationPostProcessor methodValidationPostProcessor() {
+          return new MethodValidationPostProcessor();
+     }
+
      @Bean
      public Map<String, User> usersList() {
           return new HashMap<>();
      }
-     
+
      @Bean
-     public Map<Long, String> tokens() {
+     public Map<Long, Long> tokens() {
           return new HashMap<>();
      }
-     
+
      @Bean
      public Map<Long, Pet> petsList() { return new HashMap<>(); }
-     
+
      @Bean
      public Map<Long, Order> orders() {
           return new HashMap<>();

@@ -52,8 +52,8 @@ public class UserController {
      }
      
      @PostMapping(path = "/login")
-     public ResponseEntity<String> loginUser(@RequestBody UserRequest userRequest) {
-          String token = userService.authentication(userRequest.getUser());
+     public ResponseEntity<Long> loginUser(@RequestBody UserRequest userRequest) {
+          Long token = userService.authentication(userRequest.getUser());
           if (token == null) throw new UserBadRequestException();
           return new ResponseEntity<>(token, HttpStatus.OK);
      }
