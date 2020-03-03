@@ -1,42 +1,48 @@
-//package by.rest.store;
-//
-//import by.rest.store.model.Category;
-//import by.rest.store.model.Pet;
-//import by.rest.store.model.Tag;
-//import by.rest.store.service.PetService;
-//import org.junit.Before;
-//import org.junit.jupiter.api.Test;
-//import org.springframework.boot.test.context.SpringBootTest;
-//import org.junit.jupiter.api.Assertions;
-//import sun.jvm.hotspot.utilities.Assert;
-//
-//import java.util.ArrayList;
-//import java.util.List;
-//import java.util.Map;
-//
-//import static org.junit.jupiter.api.Assertions.assertTrue;
-//
-//@SpringBootTest
-//public class PetServiceTest {
-//
-//     private Map<Long, Pet> petsMap;
-//     private PetService petService;
-//
-//     @Before
-//     public Pet createNewPet() {
-//          Pet pet = new Pet();
-//          pet.setId(123456);
-//          pet.setCategory(new Category(1, "name"));
-//          pet.setName("test");
-//          pet.setPhotoUrls(new ArrayList<>());
-//          pet.setTags(new ArrayList<>());
-//          pet.setStatus(Pet.Status.available);
-//
-//          return pet;
-//     }
-//
-//     @Test
-//     public void shouldUpdatePet() {
-//          assertTrue(petService.updatePet(createNewPet()));
-//     }
-//}
+package by.rest.store;
+
+import by.rest.store.model.Category;
+import by.rest.store.model.Pet;
+import by.rest.store.service.PetService;
+import org.junit.Before;
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+@SpringBootTest
+public class PetServiceTest {
+     private PetService petService = new PetService();
+     private Pet pet = new Pet(
+             0,
+             new Category(0, "test"),
+             "test",
+             new ArrayList<>(),
+             new ArrayList<>(),
+             Pet.Status.available
+     );
+     
+     @Before
+     public void createNewPet() {
+          petService.addPet(pet);
+     }
+     
+     @Test
+     public void getPetsList() {
+          Map<Long, Pet> expected = petService.getPetsList();
+          
+          Map<Long, Pet> actual = new HashMap<>();
+          actual.put(pet.getId(), pet);
+          
+          assertEquals(expected, actual);
+     }
+     
+     @Test
+     public void getPet_NO_NULL() {
+          Map<Long, Pet> expected = petService.getPetsList();
+          assertNotNull(expected);
+     }
+}

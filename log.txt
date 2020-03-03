@@ -1,0 +1,40 @@
+2020-03-03 10:41:48.242  INFO 9128 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 9128 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-03 10:41:48.282  INFO 9128 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-03 10:41:49.163  INFO 9128 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$cbf33fd1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-03 10:41:49.883  INFO 9128 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.567 seconds (JVM running for 5.36)
+2020-03-03 10:49:07.130  INFO 5656 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 5656 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-03 10:49:07.133  INFO 5656 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-03 10:49:07.938  INFO 5656 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$9f26fc36] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-03 10:49:08.654  INFO 5656 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.343 seconds (JVM running for 3.549)
+2020-03-03 10:49:24.294  INFO 3028 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 3028 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-03 10:49:24.296  INFO 3028 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-03 10:49:25.186  INFO 3028 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$825fd35] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-03 10:49:25.968  INFO 3028 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.461 seconds (JVM running for 3.621)
+2020-03-03 11:07:30.360  INFO 6660 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 6660 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-03 11:07:30.362  INFO 6660 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-03 11:07:31.156  INFO 6660 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$32cdcf41] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-03 11:07:31.875  INFO 6660 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.338 seconds (JVM running for 3.562)
+2020-03-03 12:05:01.530  INFO 7156 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 7156 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-03 12:05:01.532  INFO 7156 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-03 12:05:02.213  INFO 7156 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$7701af9b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-03 12:05:02.900  INFO 7156 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.432 seconds (JVM running for 3.563)
+2020-03-03 14:03:39.432  INFO 8360 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 8360 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-03 14:03:39.434  INFO 8360 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-03 14:03:40.164  INFO 8360 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$32cdcf41] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-03 14:03:40.846  INFO 8360 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.161 seconds (JVM running for 3.353)
+2020-03-03 14:34:12.292  INFO 9332 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 9332 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-03 14:34:12.294  INFO 9332 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-03 14:34:13.079  INFO 9332 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$ec2f108a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-03 14:34:13.764  INFO 9332 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.284 seconds (JVM running for 3.449)
+2020-03-03 14:36:08.010  INFO 10076 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 10076 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-03 14:36:08.011  INFO 10076 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-03 14:36:08.859  INFO 10076 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$dcfdbad8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-03 14:36:09.535  INFO 10076 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.223 seconds (JVM running for 3.387)
+2020-03-03 14:37:14.113  INFO 8800 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 8800 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-03 14:37:14.117  INFO 8800 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-03 14:37:14.850  INFO 8800 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$5e9a3d93] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-03 14:37:15.543  INFO 8800 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.145 seconds (JVM running for 3.28)
+2020-03-03 14:37:42.628  INFO 6556 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 6556 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-03 14:37:42.630  INFO 6556 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-03 14:37:43.325  INFO 6556 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$e37baf16] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-03 14:37:44.062  INFO 6556 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.462 seconds (JVM running for 3.648)
