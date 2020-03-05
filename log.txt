@@ -1,40 +1,361 @@
-2020-03-03 10:41:48.242  INFO 9128 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 9128 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-03 10:41:48.282  INFO 9128 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-03 10:41:49.163  INFO 9128 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$cbf33fd1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-03 10:41:49.883  INFO 9128 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.567 seconds (JVM running for 5.36)
-2020-03-03 10:49:07.130  INFO 5656 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 5656 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-03 10:49:07.133  INFO 5656 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-03 10:49:07.938  INFO 5656 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$9f26fc36] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-03 10:49:08.654  INFO 5656 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.343 seconds (JVM running for 3.549)
-2020-03-03 10:49:24.294  INFO 3028 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 3028 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-03 10:49:24.296  INFO 3028 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-03 10:49:25.186  INFO 3028 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$825fd35] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-03 10:49:25.968  INFO 3028 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.461 seconds (JVM running for 3.621)
-2020-03-03 11:07:30.360  INFO 6660 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 6660 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-03 11:07:30.362  INFO 6660 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-03 11:07:31.156  INFO 6660 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$32cdcf41] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-03 11:07:31.875  INFO 6660 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.338 seconds (JVM running for 3.562)
-2020-03-03 12:05:01.530  INFO 7156 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 7156 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-03 12:05:01.532  INFO 7156 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-03 12:05:02.213  INFO 7156 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$7701af9b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-03 12:05:02.900  INFO 7156 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.432 seconds (JVM running for 3.563)
-2020-03-03 14:03:39.432  INFO 8360 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 8360 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-03 14:03:39.434  INFO 8360 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-03 14:03:40.164  INFO 8360 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$32cdcf41] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-03 14:03:40.846  INFO 8360 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.161 seconds (JVM running for 3.353)
-2020-03-03 14:34:12.292  INFO 9332 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 9332 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-03 14:34:12.294  INFO 9332 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-03 14:34:13.079  INFO 9332 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$ec2f108a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-03 14:34:13.764  INFO 9332 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.284 seconds (JVM running for 3.449)
-2020-03-03 14:36:08.010  INFO 10076 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 10076 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-03 14:36:08.011  INFO 10076 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-03 14:36:08.859  INFO 10076 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$dcfdbad8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-03 14:36:09.535  INFO 10076 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.223 seconds (JVM running for 3.387)
-2020-03-03 14:37:14.113  INFO 8800 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 8800 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-03 14:37:14.117  INFO 8800 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-03 14:37:14.850  INFO 8800 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$5e9a3d93] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-03 14:37:15.543  INFO 8800 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.145 seconds (JVM running for 3.28)
-2020-03-03 14:37:42.628  INFO 6556 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 6556 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-03 14:37:42.630  INFO 6556 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-03 14:37:43.325  INFO 6556 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$e37baf16] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-03 14:37:44.062  INFO 6556 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.462 seconds (JVM running for 3.648)
+2020-03-05 09:57:22.290  INFO 1464 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 1464 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-05 09:57:22.321  INFO 1464 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-05 09:57:23.949  INFO 1464 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$cbf33fd1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-05 09:57:24.899  INFO 1464 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 3.748 seconds (JVM running for 7.125)
+2020-03-05 10:00:03.098  INFO 10096 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 10096 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-05 10:00:03.103  INFO 10096 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-05 10:00:03.909  INFO 10096 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$ec2f108a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-05 10:00:04.607  INFO 10096 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.534 seconds (JVM running for 3.573)
+2020-03-05 10:01:28.640  INFO 8984 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 8984 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-05 10:01:28.643  INFO 8984 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-05 10:01:29.712  INFO 8984 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$2dfd0de1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-05 10:01:30.393  INFO 8984 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.453 seconds (JVM running for 3.56)
+2020-03-05 10:24:30.211  INFO 2760 --- [main] by.rest.store.StoreApplication           : Starting StoreApplication on M25-419-11485 with PID 2760 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-05 10:24:30.213  INFO 2760 --- [main] by.rest.store.StoreApplication           : No active profile set, falling back to default profiles: default
+2020-03-05 10:24:30.893  INFO 2760 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$2b965260] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-05 10:24:31.216  INFO 2760 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-05 10:24:31.225  INFO 2760 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-05 10:24:31.225  INFO 2760 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-03-05 10:24:31.367  INFO 2760 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-05 10:24:31.367  INFO 2760 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1113 ms
+2020-03-05 10:24:31.796  INFO 2760 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-05 10:24:31.800  INFO 2760 --- [main] by.rest.store.StoreApplication           : Started StoreApplication in 2.049 seconds (JVM running for 2.858)
+2020-03-05 10:24:31.802  INFO 2760 --- [main] by.rest.store.StoreApplication           : The program is running
+2020-03-05 10:25:00.256  INFO 2760 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-05 10:25:00.257  INFO 2760 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-05 10:25:00.268  INFO 2760 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2020-03-05 10:25:00.708  INFO 2760 --- [http-nio-8080-exec-1] by.rest.store.controller.UserController  : The user is created
+2020-03-05 10:25:07.726  INFO 2760 --- [http-nio-8080-exec-3] by.rest.store.controller.UserController  : Login completed
+2020-03-05 10:25:35.888  INFO 2760 --- [http-nio-8080-exec-5] by.rest.store.controller.UserController  : The list is made
+2020-03-05 10:25:41.070  INFO 2760 --- [http-nio-8080-exec-6] by.rest.store.controller.UserController  : The user is successfully updated
+2020-03-05 10:25:45.688  INFO 2760 --- [http-nio-8080-exec-9] by.rest.store.controller.UserController  : The list is made
+2020-03-05 10:26:20.807  INFO 2760 --- [http-nio-8080-exec-1] b.rest.store.controller.StoreController  : The order was added successfully
+2020-03-05 10:26:30.300 ERROR 2760 --- [http-nio-8080-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getOrder.orderID'] with root cause
+
+javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getOrder.orderID'
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getExceptionForNullValidator(ConstraintTree.java:116) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getInitializedConstraintValidator(ConstraintTree.java:162) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.SimpleConstraintTree.validateConstraints(SimpleConstraintTree.java:54) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.validateConstraints(ConstraintTree.java:75) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.metadata.core.MetaConstraint.doValidateConstraint(MetaConstraint.java:130) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.metadata.core.MetaConstraint.validateConstraint(MetaConstraint.java:123) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateMetaConstraint(ValidatorImpl.java:555) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateMetaConstraints(ValidatorImpl.java:537) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersForSingleGroup(ValidatorImpl.java:991) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersForGroup(ValidatorImpl.java:932) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersInContext(ValidatorImpl.java:863) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters(ValidatorImpl.java:283) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters(ValidatorImpl.java:235) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.springframework.validation.beanvalidation.MethodValidationInterceptor.invoke(MethodValidationInterceptor.java:105) ~[spring-context-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at by.rest.store.controller.StoreController$$EnhancerBySpringCGLIB$$43660465.getOrder(<generated>) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:888) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.base/java.lang.Thread.run(Thread.java:830) ~[na:na]
+
+2020-03-05 10:26:39.820  INFO 2760 --- [http-nio-8080-exec-4] b.rest.store.controller.StoreController  : The output of the equipment is made
+2020-03-05 10:27:48.316  INFO 2760 --- [http-nio-8080-exec-6] b.rest.store.controller.StoreController  : The order was added successfully
+2020-03-05 10:27:50.964 ERROR 2760 --- [http-nio-8080-exec-8] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getOrder.orderID'] with root cause
+
+javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getOrder.orderID'
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getExceptionForNullValidator(ConstraintTree.java:116) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getInitializedConstraintValidator(ConstraintTree.java:162) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.SimpleConstraintTree.validateConstraints(SimpleConstraintTree.java:54) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.validateConstraints(ConstraintTree.java:75) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.metadata.core.MetaConstraint.doValidateConstraint(MetaConstraint.java:130) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.metadata.core.MetaConstraint.validateConstraint(MetaConstraint.java:123) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateMetaConstraint(ValidatorImpl.java:555) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateMetaConstraints(ValidatorImpl.java:537) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersForSingleGroup(ValidatorImpl.java:991) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersForGroup(ValidatorImpl.java:932) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersInContext(ValidatorImpl.java:863) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters(ValidatorImpl.java:283) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters(ValidatorImpl.java:235) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.springframework.validation.beanvalidation.MethodValidationInterceptor.invoke(MethodValidationInterceptor.java:105) ~[spring-context-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at by.rest.store.controller.StoreController$$EnhancerBySpringCGLIB$$43660465.getOrder(<generated>) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:888) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.base/java.lang.Thread.run(Thread.java:830) ~[na:na]
+
+2020-03-05 10:28:03.725  WARN 2760 --- [http-nio-8080-exec-9] b.r.s.c.e.PetExceptionController         : Bad Request
+2020-03-05 10:28:37.126 ERROR 2760 --- [http-nio-8080-exec-10] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at by.rest.store.service.PetService.addPet(PetService.java:32) ~[classes/:na]
+	at by.rest.store.controller.PetController.addPet(PetController.java:76) ~[classes/:na]
+	at by.rest.store.controller.PetController$$FastClassBySpringCGLIB$$7480c2d9.invoke(<generated>) ~[classes/:na]
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218) ~[spring-core-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:769) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.validation.beanvalidation.MethodValidationInterceptor.invoke(MethodValidationInterceptor.java:120) ~[spring-context-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at by.rest.store.controller.PetController$$EnhancerBySpringCGLIB$$ceba09df.addPet(<generated>) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:888) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.base/java.lang.Thread.run(Thread.java:830) ~[na:na]
+
+2020-03-05 10:28:45.916 ERROR 2760 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getPet.petID'] with root cause
+
+javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getPet.petID'
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getExceptionForNullValidator(ConstraintTree.java:116) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getInitializedConstraintValidator(ConstraintTree.java:162) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.SimpleConstraintTree.validateConstraints(SimpleConstraintTree.java:54) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.validateConstraints(ConstraintTree.java:75) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.metadata.core.MetaConstraint.doValidateConstraint(MetaConstraint.java:130) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.metadata.core.MetaConstraint.validateConstraint(MetaConstraint.java:123) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateMetaConstraint(ValidatorImpl.java:555) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateMetaConstraints(ValidatorImpl.java:537) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersForSingleGroup(ValidatorImpl.java:991) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersForGroup(ValidatorImpl.java:932) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersInContext(ValidatorImpl.java:863) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters(ValidatorImpl.java:283) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters(ValidatorImpl.java:235) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.springframework.validation.beanvalidation.MethodValidationInterceptor.invoke(MethodValidationInterceptor.java:105) ~[spring-context-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at by.rest.store.controller.PetController$$EnhancerBySpringCGLIB$$ceba09df.getPet(<generated>) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:888) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.base/java.lang.Thread.run(Thread.java:830) ~[na:na]
+
+2020-03-05 10:28:47.934 ERROR 2760 --- [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'updatedPet.petID'] with root cause
+
+javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'updatedPet.petID'
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getExceptionForNullValidator(ConstraintTree.java:116) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getInitializedConstraintValidator(ConstraintTree.java:162) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.SimpleConstraintTree.validateConstraints(SimpleConstraintTree.java:54) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.validateConstraints(ConstraintTree.java:75) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.metadata.core.MetaConstraint.doValidateConstraint(MetaConstraint.java:130) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.metadata.core.MetaConstraint.validateConstraint(MetaConstraint.java:123) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateMetaConstraint(ValidatorImpl.java:555) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateMetaConstraints(ValidatorImpl.java:537) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersForSingleGroup(ValidatorImpl.java:991) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersForGroup(ValidatorImpl.java:932) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersInContext(ValidatorImpl.java:863) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters(ValidatorImpl.java:283) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters(ValidatorImpl.java:235) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.springframework.validation.beanvalidation.MethodValidationInterceptor.invoke(MethodValidationInterceptor.java:105) ~[spring-context-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at by.rest.store.controller.PetController$$EnhancerBySpringCGLIB$$ceba09df.updatedPet(<generated>) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:888) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.base/java.lang.Thread.run(Thread.java:830) ~[na:na]
+
+2020-03-05 10:32:57.969  INFO 9040 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 9040 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-05 10:32:57.971  INFO 9040 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-05 10:32:58.835  INFO 9040 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$870116b0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-05 10:32:59.537  INFO 9040 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.455 seconds (JVM running for 3.696)
+2020-03-05 10:34:24.305  INFO 8136 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 8136 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-05 10:34:24.307  INFO 8136 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-05 10:34:25.233  INFO 8136 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$e17e742] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-05 10:34:25.946  INFO 8136 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.452 seconds (JVM running for 3.601)
+2020-03-05 10:35:12.191  INFO 9496 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 9496 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-05 10:35:12.193  INFO 9496 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-05 10:35:13.013  INFO 9496 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$4a8a326c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-03-05 10:35:13.686  INFO 9496 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.277 seconds (JVM running for 3.347)
