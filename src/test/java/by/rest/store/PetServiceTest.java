@@ -15,23 +15,36 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
 public class PetServiceTest {
-     private PetService petService = new PetService();
-     private Pet pet = new Pet(
-             0,
-             new Category(0, "test"),
-             "test",
-             new ArrayList<>(),
-             new ArrayList<>(),
-             Pet.Status.available
-     );
+//     private PetService petService = new PetService();
+//     private Pet pet = new Pet(
+//             0,
+//             new Category(0, "test"),
+//             "test",
+//             new ArrayList<>(),
+//             new ArrayList<>(),
+//             Pet.Status.available
+//     );
+     
+     PetService petService;
+     Pet pet;
      
      @Before
      public void createNewPet() {
+          petService = new PetService();
+          pet = new Pet(
+                  0,
+                  new Category(0, "test"),
+                  "test",
+                  new ArrayList<>(),
+                  new ArrayList<>(),
+                  Pet.Status.available
+          );
           petService.addPet(pet);
      }
      
      @Test
      public void getPetsList() {
+//          petService.addPet(pet);
           Map<Long, Pet> expected = petService.getPetsList();
           
           Map<Long, Pet> actual = new HashMap<>();

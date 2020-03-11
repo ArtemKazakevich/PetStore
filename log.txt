@@ -506,3 +506,48 @@ javax.validation.UnexpectedTypeException: HV000030: No validator could be found 
 2020-03-11 14:58:19.701  INFO 2312 --- [http-nio-8080-exec-5] by.rest.store.controller.PetController   : The update was successful
 2020-03-11 14:58:22.934  INFO 2312 --- [http-nio-8080-exec-2] by.rest.store.controller.PetController   : The list is made
 2020-03-11 14:58:27.145  INFO 2312 --- [http-nio-8080-exec-8] by.rest.store.controller.PetController   : Pet added successfully
+2020-03-11 15:46:04.390  INFO 8456 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 8456 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 15:46:04.410  INFO 8456 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-11 15:46:05.816  INFO 8456 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 15:46:06.111  INFO 8456 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.133 seconds (JVM running for 3.654)
+2020-03-11 15:46:06.643  INFO 8456 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-11 15:47:10.523  INFO 6452 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 6452 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 15:47:10.525  INFO 6452 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-11 15:47:12.075  INFO 6452 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 15:47:12.345  INFO 6452 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.776 seconds (JVM running for 3.987)
+2020-03-11 15:47:12.748  INFO 6452 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-11 15:54:09.308  INFO 8480 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 8480 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 15:54:09.310  INFO 8480 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-11 15:54:10.583  INFO 8480 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 15:54:10.841  INFO 8480 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.574 seconds (JVM running for 3.712)
+2020-03-11 15:54:11.246  INFO 8480 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-11 16:05:18.573  INFO 8760 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 8760 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 16:05:18.576  INFO 8760 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-11 16:05:20.034  INFO 8760 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 16:05:20.314  INFO 8760 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.479 seconds (JVM running for 3.587)
+2020-03-11 16:05:20.729  INFO 8760 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-11 16:07:14.851  INFO 10244 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 10244 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 16:07:14.853  INFO 10244 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-11 16:07:16.084  INFO 10244 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 16:07:16.323  INFO 10244 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.322 seconds (JVM running for 3.425)
+2020-03-11 16:07:16.713  INFO 10244 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-11 16:08:46.919  INFO 2308 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 2308 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 16:08:46.921  INFO 2308 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-11 16:08:48.266  INFO 2308 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 16:08:48.531  INFO 2308 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.322 seconds (JVM running for 3.666)
+2020-03-11 16:08:48.924  INFO 2308 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-11 16:10:42.721  INFO 9784 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 9784 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 16:10:42.725  INFO 9784 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-11 16:10:44.004  INFO 9784 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 16:10:44.304  INFO 9784 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.465 seconds (JVM running for 3.673)
+2020-03-11 16:10:44.723  INFO 9784 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-11 16:27:38.143  INFO 6748 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 6748 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 16:27:38.145  INFO 6748 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-11 16:27:39.440  INFO 6748 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 16:27:39.690  INFO 6748 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.232 seconds (JVM running for 3.485)
+2020-03-11 16:27:40.077  INFO 6748 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-11 16:28:36.086  INFO 1504 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 1504 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 16:28:36.089  INFO 1504 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
+2020-03-11 16:28:37.400  INFO 1504 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 16:28:37.666  INFO 1504 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.357 seconds (JVM running for 3.53)
+2020-03-11 16:28:38.067  INFO 1504 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
