@@ -13,7 +13,7 @@ import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
-import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Min;
 import java.util.List;
 
 @RestController
@@ -30,7 +30,7 @@ public class StoreController {
      }
      
      @GetMapping(path = "/order/{orderID}")
-     public ResponseEntity<Order> getOrder(@PathVariable("orderID") @NotBlank Long orderID,
+     public ResponseEntity<Order> getOrder(@PathVariable("orderID") @Min(value = 0) Long orderID,
                                            @RequestBody StoreRequest storeRequest) {
           if (!userService.getTokens().containsValue(storeRequest.getToken())) throw new StoreBadRequestException();
           if (!storeService.getOrdersMap().containsKey(orderID)) throw new StoreNotFoundException();
@@ -39,7 +39,7 @@ public class StoreController {
      }
      
      @DeleteMapping(path = "/order/{orderID}")
-     public ResponseEntity<String> deleteOrder(@PathVariable("orderID") @NotBlank Long orderID,
+     public ResponseEntity<String> deleteOrder(@PathVariable("orderID") @Min(value = 0) Long orderID,
                                                @RequestBody StoreRequest storeRequest) {
           if (!userService.getTokens().containsValue(storeRequest.getToken())) throw new StoreBadRequestException();
           if (!storeService.getOrdersMap().containsKey(orderID)) throw new StoreNotFoundException();

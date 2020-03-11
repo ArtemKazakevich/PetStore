@@ -14,8 +14,6 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
 import javax.validation.constraints.Min;
-import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.Size;
 import java.util.List;
 
 @RestController
@@ -32,7 +30,7 @@ public class PetController {
      }
      
      @GetMapping(path = "/{petID}")
-     public ResponseEntity<Pet> getPet(@PathVariable("petID") @NotBlank Long petID,
+     public ResponseEntity<Pet> getPet(@PathVariable("petID") @Min(value = 0) Long petID,
                                                   @RequestBody PetRequest petRequest) {
           if (!userService.getTokens().containsValue(petRequest.getToken())) throw new PetBadRequestException();
           if (!petService.getPetsList().containsKey(petID)) throw new PetNotFoundException();
@@ -41,7 +39,7 @@ public class PetController {
      }
      
      @PostMapping(path = "/{petID}")
-     public ResponseEntity<String> updatedPet(@PathVariable("petID") @NotBlank Long petID,
+     public ResponseEntity<String> updatedPet(@PathVariable("petID") @Min(value = 0) Long petID,
                                               @RequestBody PetRequest petRequest) {
           if (!userService.getTokens().containsValue(petRequest.getToken())) throw new PetBadRequestException();
           if (!petService.getPetsList().containsKey(petID)) throw new PetNotFoundException();
@@ -51,7 +49,7 @@ public class PetController {
      }
      
      @DeleteMapping(path = "/{petID}")
-     public ResponseEntity<String> deletePet(@PathVariable("petID") @NotBlank Long petID,
+     public ResponseEntity<String> deletePet(@PathVariable("petID") @Min(value = 0) Long petID,
                                              @RequestBody PetRequest petRequest) {
           if (!userService.getTokens().containsValue(petRequest.getToken())) throw new PetBadRequestException();
           if (!petService.getPetsList().containsKey(petID)) throw new PetNotFoundException();
@@ -61,7 +59,7 @@ public class PetController {
      }
      
      @PostMapping(path = "/{petId}/uploadImage")
-     public ResponseEntity<String> uploadImagePet(@PathVariable("petID") @NotBlank Long petID,
+     public ResponseEntity<String> uploadImagePet(@PathVariable("petID") @Min(value = 0) Long petID,
                                                   @RequestBody PetRequest petRequest) {
           if (!userService.getTokens().containsValue(petRequest.getToken())) throw new PetBadRequestException();
           if (!petService.getPetsList().containsKey(petID)) throw new PetNotFoundException();

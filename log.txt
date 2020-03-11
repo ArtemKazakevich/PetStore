@@ -1,36 +1,40 @@
-2020-03-05 09:57:22.290  INFO 1464 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 1464 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-05 09:57:22.321  INFO 1464 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-05 09:57:23.949  INFO 1464 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$cbf33fd1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-05 09:57:24.899  INFO 1464 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 3.748 seconds (JVM running for 7.125)
-2020-03-05 10:00:03.098  INFO 10096 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 10096 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-05 10:00:03.103  INFO 10096 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-05 10:00:03.909  INFO 10096 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$ec2f108a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-05 10:00:04.607  INFO 10096 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.534 seconds (JVM running for 3.573)
-2020-03-05 10:01:28.640  INFO 8984 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 8984 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-05 10:01:28.643  INFO 8984 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-05 10:01:29.712  INFO 8984 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$2dfd0de1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-05 10:01:30.393  INFO 8984 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.453 seconds (JVM running for 3.56)
-2020-03-05 10:24:30.211  INFO 2760 --- [main] by.rest.store.StoreApplication           : Starting StoreApplication on M25-419-11485 with PID 2760 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-05 10:24:30.213  INFO 2760 --- [main] by.rest.store.StoreApplication           : No active profile set, falling back to default profiles: default
-2020-03-05 10:24:30.893  INFO 2760 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$2b965260] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-05 10:24:31.216  INFO 2760 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
-2020-03-05 10:24:31.225  INFO 2760 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2020-03-05 10:24:31.225  INFO 2760 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
-2020-03-05 10:24:31.367  INFO 2760 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2020-03-05 10:24:31.367  INFO 2760 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1113 ms
-2020-03-05 10:24:31.796  INFO 2760 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
-2020-03-05 10:24:31.800  INFO 2760 --- [main] by.rest.store.StoreApplication           : Started StoreApplication in 2.049 seconds (JVM running for 2.858)
-2020-03-05 10:24:31.802  INFO 2760 --- [main] by.rest.store.StoreApplication           : The program is running
-2020-03-05 10:25:00.256  INFO 2760 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2020-03-05 10:25:00.257  INFO 2760 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2020-03-05 10:25:00.268  INFO 2760 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
-2020-03-05 10:25:00.708  INFO 2760 --- [http-nio-8080-exec-1] by.rest.store.controller.UserController  : The user is created
-2020-03-05 10:25:07.726  INFO 2760 --- [http-nio-8080-exec-3] by.rest.store.controller.UserController  : Login completed
-2020-03-05 10:25:35.888  INFO 2760 --- [http-nio-8080-exec-5] by.rest.store.controller.UserController  : The list is made
-2020-03-05 10:25:41.070  INFO 2760 --- [http-nio-8080-exec-6] by.rest.store.controller.UserController  : The user is successfully updated
-2020-03-05 10:25:45.688  INFO 2760 --- [http-nio-8080-exec-9] by.rest.store.controller.UserController  : The list is made
-2020-03-05 10:26:20.807  INFO 2760 --- [http-nio-8080-exec-1] b.rest.store.controller.StoreController  : The order was added successfully
-2020-03-05 10:26:30.300 ERROR 2760 --- [http-nio-8080-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getOrder.orderID'] with root cause
+2020-03-11 14:36:46.006  INFO 10644 --- [main] by.rest.store.StoreApplication           : Starting StoreApplication on M25-419-11485 with PID 10644 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 14:36:46.039  INFO 10644 --- [main] by.rest.store.StoreApplication           : No active profile set, falling back to default profiles: default
+2020-03-11 14:36:46.926  INFO 10644 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-11 14:36:46.932  INFO 10644 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-11 14:36:46.933  INFO 10644 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-03-11 14:36:46.996  INFO 10644 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-11 14:36:46.996  INFO 10644 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 829 ms
+2020-03-11 14:36:47.162  INFO 10644 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 14:36:47.347  INFO 10644 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-11 14:36:47.351  INFO 10644 --- [main] by.rest.store.StoreApplication           : Started StoreApplication in 1.823 seconds (JVM running for 2.359)
+2020-03-11 14:36:47.353  INFO 10644 --- [main] by.rest.store.StoreApplication           : The program is running
+2020-03-11 14:37:03.195  INFO 10644 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-11 14:37:03.196  INFO 10644 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-11 14:37:03.200  INFO 10644 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-03-11 14:37:03.319  INFO 10644 --- [http-nio-8080-exec-1] by.rest.store.controller.UserController  : The user is created
+2020-03-11 14:37:08.272  INFO 10644 --- [http-nio-8080-exec-3] by.rest.store.controller.UserController  : Login completed
+2020-03-11 14:37:28.569  INFO 8476 --- [main] by.rest.store.StoreApplication           : Starting StoreApplication on M25-419-11485 with PID 8476 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 14:37:28.571  INFO 8476 --- [main] by.rest.store.StoreApplication           : No active profile set, falling back to default profiles: default
+2020-03-11 14:37:29.499  INFO 8476 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-11 14:37:29.513  INFO 8476 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-11 14:37:29.513  INFO 8476 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-03-11 14:37:29.608  INFO 8476 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-11 14:37:29.608  INFO 8476 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 993 ms
+2020-03-11 14:37:29.777  INFO 8476 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 14:37:29.964  INFO 8476 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-11 14:37:29.967  INFO 8476 --- [main] by.rest.store.StoreApplication           : Started StoreApplication in 1.683 seconds (JVM running for 2.188)
+2020-03-11 14:37:29.968  INFO 8476 --- [main] by.rest.store.StoreApplication           : The program is running
+2020-03-11 14:37:36.968  INFO 8476 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-11 14:37:36.969  INFO 8476 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-11 14:37:36.973  INFO 8476 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-03-11 14:37:37.083  INFO 8476 --- [http-nio-8080-exec-1] by.rest.store.controller.UserController  : The user is created
+2020-03-11 14:37:41.116  INFO 8476 --- [http-nio-8080-exec-3] by.rest.store.controller.UserController  : Login completed
+2020-03-11 14:38:43.721  INFO 8476 --- [http-nio-8080-exec-5] by.rest.store.controller.UserController  : The list is made
+2020-03-11 14:38:47.898  INFO 8476 --- [http-nio-8080-exec-6] by.rest.store.controller.UserController  : The user is successfully updated
+2020-03-11 14:38:50.801  INFO 8476 --- [http-nio-8080-exec-7] by.rest.store.controller.UserController  : The list is made
+2020-03-11 14:39:09.487  INFO 8476 --- [http-nio-8080-exec-1] b.rest.store.controller.StoreController  : The order was added successfully
+2020-03-11 14:39:18.603 ERROR 8476 --- [http-nio-8080-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getOrder.orderID'] with root cause
 
 javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getOrder.orderID'
 	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getExceptionForNullValidator(ConstraintTree.java:116) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
@@ -50,7 +54,7 @@ javax.validation.UnexpectedTypeException: HV000030: No validator could be found 
 	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
-	at by.rest.store.controller.StoreController$$EnhancerBySpringCGLIB$$43660465.getOrder(<generated>) ~[classes/:na]
+	at by.rest.store.controller.StoreController$$EnhancerBySpringCGLIB$$78f20efe.getOrder(<generated>) ~[classes/:na]
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
@@ -73,6 +77,14 @@ javax.validation.UnexpectedTypeException: HV000030: No validator could be found 
 	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.30.jar:9.0.30]
 	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
@@ -94,9 +106,7 @@ javax.validation.UnexpectedTypeException: HV000030: No validator could be found 
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at java.base/java.lang.Thread.run(Thread.java:830) ~[na:na]
 
-2020-03-05 10:26:39.820  INFO 2760 --- [http-nio-8080-exec-4] b.rest.store.controller.StoreController  : The output of the equipment is made
-2020-03-05 10:27:48.316  INFO 2760 --- [http-nio-8080-exec-6] b.rest.store.controller.StoreController  : The order was added successfully
-2020-03-05 10:27:50.964 ERROR 2760 --- [http-nio-8080-exec-8] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getOrder.orderID'] with root cause
+2020-03-11 14:39:39.896 ERROR 8476 --- [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getOrder.orderID'] with root cause
 
 javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getOrder.orderID'
 	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getExceptionForNullValidator(ConstraintTree.java:116) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
@@ -116,7 +126,7 @@ javax.validation.UnexpectedTypeException: HV000030: No validator could be found 
 	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
-	at by.rest.store.controller.StoreController$$EnhancerBySpringCGLIB$$43660465.getOrder(<generated>) ~[classes/:na]
+	at by.rest.store.controller.StoreController$$EnhancerBySpringCGLIB$$78f20efe.getOrder(<generated>) ~[classes/:na]
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
@@ -139,6 +149,14 @@ javax.validation.UnexpectedTypeException: HV000030: No validator could be found 
 	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.30.jar:9.0.30]
 	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
@@ -160,22 +178,28 @@ javax.validation.UnexpectedTypeException: HV000030: No validator could be found 
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at java.base/java.lang.Thread.run(Thread.java:830) ~[na:na]
 
-2020-03-05 10:28:03.725  WARN 2760 --- [http-nio-8080-exec-9] b.r.s.c.e.PetExceptionController         : Bad Request
-2020-03-05 10:28:37.126 ERROR 2760 --- [http-nio-8080-exec-10] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+2020-03-11 14:39:42.735  INFO 8476 --- [http-nio-8080-exec-5] b.rest.store.controller.StoreController  : The order was added successfully
+2020-03-11 14:39:46.112 ERROR 8476 --- [http-nio-8080-exec-6] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getOrder.orderID'] with root cause
 
-java.lang.NullPointerException: null
-	at by.rest.store.service.PetService.addPet(PetService.java:32) ~[classes/:na]
-	at by.rest.store.controller.PetController.addPet(PetController.java:76) ~[classes/:na]
-	at by.rest.store.controller.PetController$$FastClassBySpringCGLIB$$7480c2d9.invoke(<generated>) ~[classes/:na]
-	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218) ~[spring-core-5.2.3.RELEASE.jar:5.2.3.RELEASE]
-	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:769) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
-	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
-	at org.springframework.validation.beanvalidation.MethodValidationInterceptor.invoke(MethodValidationInterceptor.java:120) ~[spring-context-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getOrder.orderID'
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getExceptionForNullValidator(ConstraintTree.java:116) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getInitializedConstraintValidator(ConstraintTree.java:162) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.SimpleConstraintTree.validateConstraints(SimpleConstraintTree.java:54) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.validateConstraints(ConstraintTree.java:75) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.metadata.core.MetaConstraint.doValidateConstraint(MetaConstraint.java:130) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.metadata.core.MetaConstraint.validateConstraint(MetaConstraint.java:123) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateMetaConstraint(ValidatorImpl.java:555) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateMetaConstraints(ValidatorImpl.java:537) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersForSingleGroup(ValidatorImpl.java:991) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersForGroup(ValidatorImpl.java:932) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersInContext(ValidatorImpl.java:863) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters(ValidatorImpl.java:283) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters(ValidatorImpl.java:235) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
+	at org.springframework.validation.beanvalidation.MethodValidationInterceptor.invoke(MethodValidationInterceptor.java:105) ~[spring-context-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
-	at by.rest.store.controller.PetController$$EnhancerBySpringCGLIB$$ceba09df.addPet(<generated>) ~[classes/:na]
+	at by.rest.store.controller.StoreController$$EnhancerBySpringCGLIB$$78f20efe.getOrder(<generated>) ~[classes/:na]
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
@@ -189,13 +213,21 @@ java.lang.NullPointerException: null
 	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
-	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
@@ -219,7 +251,8 @@ java.lang.NullPointerException: null
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at java.base/java.lang.Thread.run(Thread.java:830) ~[na:na]
 
-2020-03-05 10:28:45.916 ERROR 2760 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getPet.petID'] with root cause
+2020-03-11 14:39:57.562  INFO 8476 --- [http-nio-8080-exec-7] by.rest.store.controller.PetController   : Pet added successfully
+2020-03-11 14:40:05.077 ERROR 8476 --- [http-nio-8080-exec-10] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getPet.petID'] with root cause
 
 javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'getPet.petID'
 	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getExceptionForNullValidator(ConstraintTree.java:116) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
@@ -239,7 +272,7 @@ javax.validation.UnexpectedTypeException: HV000030: No validator could be found 
 	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
-	at by.rest.store.controller.PetController$$EnhancerBySpringCGLIB$$ceba09df.getPet(<generated>) ~[classes/:na]
+	at by.rest.store.controller.PetController$$EnhancerBySpringCGLIB$$4461478.getPet(<generated>) ~[classes/:na]
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
@@ -262,6 +295,14 @@ javax.validation.UnexpectedTypeException: HV000030: No validator could be found 
 	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.30.jar:9.0.30]
 	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
@@ -283,7 +324,7 @@ javax.validation.UnexpectedTypeException: HV000030: No validator could be found 
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at java.base/java.lang.Thread.run(Thread.java:830) ~[na:na]
 
-2020-03-05 10:28:47.934 ERROR 2760 --- [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'updatedPet.petID'] with root cause
+2020-03-11 14:40:19.029 ERROR 8476 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'updatedPet.petID'] with root cause
 
 javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Long'. Check configuration for 'updatedPet.petID'
 	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getExceptionForNullValidator(ConstraintTree.java:116) ~[hibernate-validator-6.1.2.Final.jar:6.1.2.Final]
@@ -303,7 +344,7 @@ javax.validation.UnexpectedTypeException: HV000030: No validator could be found 
 	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689) ~[spring-aop-5.2.3.RELEASE.jar:5.2.3.RELEASE]
-	at by.rest.store.controller.PetController$$EnhancerBySpringCGLIB$$ceba09df.updatedPet(<generated>) ~[classes/:na]
+	at by.rest.store.controller.PetController$$EnhancerBySpringCGLIB$$4461478.updatedPet(<generated>) ~[classes/:na]
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
@@ -326,6 +367,14 @@ javax.validation.UnexpectedTypeException: HV000030: No validator could be found 
 	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.30.jar:9.0.30]
 	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
 	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
@@ -347,15 +396,113 @@ javax.validation.UnexpectedTypeException: HV000030: No validator could be found 
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.30.jar:9.0.30]
 	at java.base/java.lang.Thread.run(Thread.java:830) ~[na:na]
 
-2020-03-05 10:32:57.969  INFO 9040 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 9040 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-05 10:32:57.971  INFO 9040 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-05 10:32:58.835  INFO 9040 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$870116b0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-05 10:32:59.537  INFO 9040 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.455 seconds (JVM running for 3.696)
-2020-03-05 10:34:24.305  INFO 8136 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 8136 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-05 10:34:24.307  INFO 8136 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-05 10:34:25.233  INFO 8136 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$e17e742] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-05 10:34:25.946  INFO 8136 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.452 seconds (JVM running for 3.601)
-2020-03-05 10:35:12.191  INFO 9496 --- [main] by.rest.store.PetServiceTest             : Starting PetServiceTest on M25-419-11485 with PID 9496 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
-2020-03-05 10:35:12.193  INFO 9496 --- [main] by.rest.store.PetServiceTest             : No active profile set, falling back to default profiles: default
-2020-03-05 10:35:13.013  INFO 9496 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'config' of type [by.rest.store.config.Config$$EnhancerBySpringCGLIB$$4a8a326c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2020-03-05 10:35:13.686  INFO 9496 --- [main] by.rest.store.PetServiceTest             : Started PetServiceTest in 2.277 seconds (JVM running for 3.347)
+2020-03-11 14:43:29.472  INFO 3748 --- [main] by.rest.store.StoreApplication           : Starting StoreApplication on M25-419-11485 with PID 3748 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 14:43:29.474  INFO 3748 --- [main] by.rest.store.StoreApplication           : No active profile set, falling back to default profiles: default
+2020-03-11 14:43:30.479  INFO 3748 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-11 14:43:30.487  INFO 3748 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-11 14:43:30.487  INFO 3748 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-03-11 14:43:30.546  INFO 3748 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-11 14:43:30.547  INFO 3748 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1017 ms
+2020-03-11 14:43:30.703  INFO 3748 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 14:43:30.880  INFO 3748 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-11 14:43:30.883  INFO 3748 --- [main] by.rest.store.StoreApplication           : Started StoreApplication in 1.671 seconds (JVM running for 2.193)
+2020-03-11 14:43:30.884  INFO 3748 --- [main] by.rest.store.StoreApplication           : The program is running
+2020-03-11 14:43:54.811  INFO 3748 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-11 14:43:54.812  INFO 3748 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-11 14:43:54.819  INFO 3748 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2020-03-11 14:43:54.933  INFO 3748 --- [http-nio-8080-exec-1] by.rest.store.controller.UserController  : The user is created
+2020-03-11 14:44:00.037  INFO 3748 --- [http-nio-8080-exec-2] by.rest.store.controller.UserController  : Login completed
+2020-03-11 14:44:07.397  INFO 4152 --- [main] by.rest.store.StoreApplication           : Starting StoreApplication on M25-419-11485 with PID 4152 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 14:44:07.401  INFO 4152 --- [main] by.rest.store.StoreApplication           : No active profile set, falling back to default profiles: default
+2020-03-11 14:44:08.440  INFO 4152 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-11 14:44:08.447  INFO 4152 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-11 14:44:08.447  INFO 4152 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-03-11 14:44:08.506  INFO 4152 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-11 14:44:08.506  INFO 4152 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1047 ms
+2020-03-11 14:44:08.676  INFO 4152 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 14:44:08.848  INFO 4152 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-11 14:44:08.852  INFO 4152 --- [main] by.rest.store.StoreApplication           : Started StoreApplication in 1.773 seconds (JVM running for 2.298)
+2020-03-11 14:44:08.853  INFO 4152 --- [main] by.rest.store.StoreApplication           : The program is running
+2020-03-11 14:44:18.236  INFO 4152 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-11 14:44:18.237  INFO 4152 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-11 14:44:18.241  INFO 4152 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-03-11 14:44:18.352  INFO 4152 --- [http-nio-8080-exec-1] by.rest.store.controller.UserController  : The user is created
+2020-03-11 14:44:22.334  INFO 4152 --- [http-nio-8080-exec-2] by.rest.store.controller.UserController  : Login completed
+2020-03-11 14:45:18.888  INFO 4152 --- [http-nio-8080-exec-5] by.rest.store.controller.UserController  : The list is made
+2020-03-11 14:45:21.587  INFO 4152 --- [http-nio-8080-exec-6] by.rest.store.controller.UserController  : The user is successfully updated
+2020-03-11 14:45:24.581  INFO 4152 --- [http-nio-8080-exec-7] by.rest.store.controller.UserController  : The list is made
+2020-03-11 14:45:35.222  INFO 4152 --- [http-nio-8080-exec-1] b.rest.store.controller.StoreController  : The order was added successfully
+2020-03-11 14:45:43.030  INFO 4152 --- [http-nio-8080-exec-2] b.rest.store.controller.StoreController  : The list is made
+2020-03-11 14:46:18.920  INFO 4152 --- [http-nio-8080-exec-5] b.rest.store.controller.StoreController  : The output of the equipment is made
+2020-03-11 14:46:33.482  INFO 4152 --- [http-nio-8080-exec-6] by.rest.store.controller.PetController   : Pet added successfully
+2020-03-11 14:46:38.213  INFO 4152 --- [http-nio-8080-exec-7] by.rest.store.controller.PetController   : The list is made
+2020-03-11 14:46:53.520  INFO 4152 --- [http-nio-8080-exec-8] by.rest.store.controller.PetController   : The update was successful
+2020-03-11 14:46:56.891  INFO 4152 --- [http-nio-8080-exec-1] by.rest.store.controller.PetController   : The list is made
+2020-03-11 14:47:25.252  INFO 4152 --- [http-nio-8080-exec-6] by.rest.store.controller.PetController   : The update was successful
+2020-03-11 14:47:32.584  INFO 4152 --- [http-nio-8080-exec-7] by.rest.store.controller.PetController   : The output of the equipment is made
+2020-03-11 14:54:03.876  INFO 700 --- [main] by.rest.store.StoreApplication           : Starting StoreApplication on M25-419-11485 with PID 700 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 14:54:03.878  INFO 700 --- [main] by.rest.store.StoreApplication           : No active profile set, falling back to default profiles: default
+2020-03-11 14:54:04.782  INFO 700 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-11 14:54:04.789  INFO 700 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-11 14:54:04.789  INFO 700 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-03-11 14:54:04.854  INFO 700 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-11 14:54:04.854  INFO 700 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 922 ms
+2020-03-11 14:54:05.031  INFO 700 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 14:54:05.228  INFO 700 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-11 14:54:05.231  INFO 700 --- [main] by.rest.store.StoreApplication           : Started StoreApplication in 1.719 seconds (JVM running for 2.237)
+2020-03-11 14:54:05.232  INFO 700 --- [main] by.rest.store.StoreApplication           : The program is running
+2020-03-11 14:54:27.046  INFO 2408 --- [main] by.rest.store.StoreApplication           : Starting StoreApplication on M25-419-11485 with PID 2408 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 14:54:27.069  INFO 2408 --- [main] by.rest.store.StoreApplication           : No active profile set, falling back to default profiles: default
+2020-03-11 14:54:27.961  INFO 2408 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-11 14:54:27.968  INFO 2408 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-11 14:54:27.968  INFO 2408 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-03-11 14:54:28.025  INFO 2408 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-11 14:54:28.026  INFO 2408 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 884 ms
+2020-03-11 14:54:28.219  INFO 2408 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 14:54:28.404  INFO 2408 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-11 14:54:28.407  INFO 2408 --- [main] by.rest.store.StoreApplication           : Started StoreApplication in 1.682 seconds (JVM running for 2.205)
+2020-03-11 14:54:28.408  INFO 2408 --- [main] by.rest.store.StoreApplication           : The program is running
+2020-03-11 14:54:32.622  INFO 2408 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-11 14:54:32.623  INFO 2408 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-11 14:54:32.628  INFO 2408 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-03-11 14:54:32.747  INFO 2408 --- [http-nio-8080-exec-1] by.rest.store.controller.UserController  : The user is created
+2020-03-11 14:54:37.853  WARN 2408 --- [http-nio-8080-exec-2] b.r.s.c.e.UserExceptionController        : Bad Request
+2020-03-11 14:54:41.345  INFO 2408 --- [http-nio-8080-exec-3] by.rest.store.controller.UserController  : Login completed
+2020-03-11 14:54:49.228  INFO 2312 --- [main] by.rest.store.StoreApplication           : Starting StoreApplication on M25-419-11485 with PID 2312 (started by kazakevich_av in D:\Курсы\Практика\HomeWork\PetStoreSwagger)
+2020-03-11 14:54:49.231  INFO 2312 --- [main] by.rest.store.StoreApplication           : No active profile set, falling back to default profiles: default
+2020-03-11 14:54:50.181  INFO 2312 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-11 14:54:50.188  INFO 2312 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-11 14:54:50.188  INFO 2312 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-03-11 14:54:50.251  INFO 2312 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-11 14:54:50.252  INFO 2312 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 946 ms
+2020-03-11 14:54:50.407  INFO 2312 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-11 14:54:50.594  INFO 2312 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-11 14:54:50.597  INFO 2312 --- [main] by.rest.store.StoreApplication           : Started StoreApplication in 1.765 seconds (JVM running for 2.303)
+2020-03-11 14:54:50.598  INFO 2312 --- [main] by.rest.store.StoreApplication           : The program is running
+2020-03-11 14:54:53.992  INFO 2312 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-11 14:54:53.993  INFO 2312 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-11 14:54:53.998  INFO 2312 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-03-11 14:54:54.118  INFO 2312 --- [http-nio-8080-exec-1] by.rest.store.controller.UserController  : The user is created
+2020-03-11 14:54:57.160  INFO 2312 --- [http-nio-8080-exec-2] by.rest.store.controller.UserController  : Login completed
+2020-03-11 14:55:51.001  INFO 2312 --- [http-nio-8080-exec-5] by.rest.store.controller.UserController  : The list is made
+2020-03-11 14:55:54.350  INFO 2312 --- [http-nio-8080-exec-6] by.rest.store.controller.UserController  : The user is successfully updated
+2020-03-11 14:55:56.825  INFO 2312 --- [http-nio-8080-exec-9] by.rest.store.controller.UserController  : The list is made
+2020-03-11 14:56:09.191  INFO 2312 --- [http-nio-8080-exec-10] b.rest.store.controller.StoreController  : The order was added successfully
+2020-03-11 14:56:13.596  INFO 2312 --- [http-nio-8080-exec-1] b.rest.store.controller.StoreController  : The list is made
+2020-03-11 14:56:28.205  INFO 2312 --- [http-nio-8080-exec-5] b.rest.store.controller.StoreController  : The output of the equipment is made
+2020-03-11 14:56:30.920  INFO 2312 --- [http-nio-8080-exec-6] b.rest.store.controller.StoreController  : The order was added successfully
+2020-03-11 14:56:36.584  WARN 2312 --- [http-nio-8080-exec-7] b.r.s.c.e.PetExceptionController         : Not Found
+2020-03-11 14:56:42.564  WARN 2312 --- [http-nio-8080-exec-1] b.r.s.c.e.PetExceptionController         : Not Found
+2020-03-11 14:57:15.214  INFO 2312 --- [http-nio-8080-exec-3] by.rest.store.controller.PetController   : Pet added successfully
+2020-03-11 14:57:19.085  INFO 2312 --- [http-nio-8080-exec-5] by.rest.store.controller.PetController   : The list is made
+2020-03-11 14:57:24.171  INFO 2312 --- [http-nio-8080-exec-6] by.rest.store.controller.PetController   : The update was successful
+2020-03-11 14:57:25.986  INFO 2312 --- [http-nio-8080-exec-7] by.rest.store.controller.PetController   : The list is made
+2020-03-11 14:57:35.562  INFO 2312 --- [http-nio-8080-exec-3] by.rest.store.controller.PetController   : The update was successful
+2020-03-11 14:57:38.458  INFO 2312 --- [http-nio-8080-exec-4] by.rest.store.controller.PetController   : The output of the equipment is made
+2020-03-11 14:57:45.411  INFO 2312 --- [http-nio-8080-exec-6] b.rest.store.controller.StoreController  : The list is made
+2020-03-11 14:57:48.530  INFO 2312 --- [http-nio-8080-exec-7] b.rest.store.controller.StoreController  : The order was added successfully
+2020-03-11 14:57:54.295  INFO 2312 --- [http-nio-8080-exec-8] b.rest.store.controller.StoreController  : The list is made
+2020-03-11 14:58:06.045  INFO 2312 --- [http-nio-8080-exec-3] b.rest.store.controller.StoreController  : The output of the equipment is made
+2020-03-11 14:58:19.701  INFO 2312 --- [http-nio-8080-exec-5] by.rest.store.controller.PetController   : The update was successful
+2020-03-11 14:58:22.934  INFO 2312 --- [http-nio-8080-exec-2] by.rest.store.controller.PetController   : The list is made
+2020-03-11 14:58:27.145  INFO 2312 --- [http-nio-8080-exec-8] by.rest.store.controller.PetController   : Pet added successfully
